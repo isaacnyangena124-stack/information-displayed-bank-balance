@@ -1,12 +1,4 @@
 // a programme to display the information entered.
-/*
-Author: Brian Ndung'u Oyeka
-Registration Number:BCS-05-0544/2026
-Description: A program meant to display the information entered
-Date: 21/09/2026
-Version 1
-*/
-
 #include <stdio.h>
 
 int main()
